@@ -35,6 +35,7 @@
 - [ljk1291](https://github.com/ljk1291)
 - [fizzxed](https://github.com/fizzxed)
 - [akymos](https://github.com/akymos)
+- [Farigh](https://github.com/Farigh/PSC)
 
 
 ## Translators
